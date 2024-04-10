@@ -1,0 +1,10 @@
+.Item-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 55px;
+    padding-right: 55px;
+    gap:  80px;
+    background-color: #bde0fe;
+    align-items: center;
+    justify-content: space-evenly;
+}
